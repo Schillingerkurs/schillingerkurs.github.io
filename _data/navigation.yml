@@ -13,8 +13,8 @@ main:
   #  url: /portfolio/
 
 
-  - title: "Research"
-    url: /research/
+  - title: "Papers"
+    url: /paper/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
