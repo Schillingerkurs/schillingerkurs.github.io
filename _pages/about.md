@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD fellow at EGB and interested in the political economy of developing countries.
+Hello,
 
-My research examines how financial flows relate to institutional development.  Since data in this field is often of low quality, I spend a large share of my time on ways to process unstructured data from public records in developing countries. This includes data science techniques such as natural language processing (NLP) or network analysis. I leverage the outcomes of these efforts to conduct quantitative research and identify causal relations. 
+I am currently a PhD fellow at the Department of International Economics, Government and Business at the Copenhagen Business School. My research focuses on the intricate relationship between natural resources, politics, and economic development in low-income countries.
 
-Before joining EGB, I worked as a Graduate Research Assistant in the Development Economics Research Group (DERG) at the Department of Economics at Københavns Universitet (KU). I hold a Msc in Economics from KU and a Bsc in Economics from the University of Heidelberg.
+Studying these complex interactions with quantitative methods can be challenging. That's why I work with public but unstructured data and various data science techniques, including spatial analysis and Natural Language Processing (NLP). My goal is to uncover valuable insights that shed light on the dynamics of resource-driven development, particularly linkages between political and economic actors.
+
+In addition to my current role, I previously served as a Graduate Research Assistant in the Development Economics Research Group (DERG) at the Department of Economics, Københavns Universitet (KU). I hold an MSc in Economics from KU and a BSc in Economics from the University of Heidelberg. Recently, I had the opportunity to be a Visiting Research Collaborator at the Department of Politics, Princeton University during the Spring Semester of 2023.
+
+If you have any questions or would like to discuss potential collaborations, please feel free to reach out to me.
