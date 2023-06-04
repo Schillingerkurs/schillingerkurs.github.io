@@ -10,6 +10,8 @@ redirect_from:
 
 # Working paper
 
+Please [email](mailto:fs.egb@cbs.dk) me for the latest drafts.
+
 ## Property rights under selective enforcement: How mining licenses relate to conflict in low income countries
 
 Resource conflicts in low income countries are a major challenge, exacerbated by climate change and the increasing global demand for mining commodities. This paper examines the potential of property rights to mitigate conflict over valuable resources in the mining sector. While donors and scholars have long advocated for property rights in low income countries, little is known about how these capacity investments relate to political processes and local conflict. Using original data from administrative records in the Democratic Republic of the Congo and its neighboring countries, this paper examines how mining licenses moderate the effect of resource extraction on conflict. The main argument is that heterogeneous levels of political influence among mining stakeholders cause local conflict, and improvements in administrative capacities maintain this conflict potential if they do not address present gaps in access to rights. Empirically, the paper finds heterogenous effects on conflict levels in mining areas that get formalized through mining licenses. The paper concludes that property rights can be effective in mitigating resource conflicts, but their strength depends on rulers and bureaucracies prioritizing an efficient allocation of resources over personal access to rents.
