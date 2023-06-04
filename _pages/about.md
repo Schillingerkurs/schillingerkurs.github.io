@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Felix Schilling"
+title: "Hello,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello,
 
 I am currently a PhD fellow at the Department of International Economics, Government and Business at the Copenhagen Business School. My research focuses on the intricate relationship between natural resources, politics, and economic development in low-income countries.
 
