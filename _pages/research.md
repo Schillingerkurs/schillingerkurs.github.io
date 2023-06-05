@@ -18,8 +18,11 @@ Resource conflicts in low income countries are a major challenge, exacerbated by
 
 
 ```
-<img src="/images/Unique_mines_location.png.png" style="display: block; margin: auto;" />
+<img src="/images/Unique_mines_location.png" style="display: block; margin: auto;" />
 ```
+
+
+<img src="/images/posts/so-it-goes/waffle_combined-1.png" style="display: block; margin: auto;" />
 
 
 
