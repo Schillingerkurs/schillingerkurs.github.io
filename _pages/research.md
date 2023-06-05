@@ -35,4 +35,4 @@ with [Sam Jones](https://esamjones.github.io/) and [Finn Tarp](https://web.econ.
 
 We link a new database of politically exposed persons in Mozambique to the universe of owners of all private firms formally registered since Independence. Based on the network of connections between firm owners, we estimate the value of party political and executive mandates to individuals’ business interests. We find holders of political office achieve significantly faster gains, both in the number of companies owned and their structural power within the business-owner network, measured by their 'godfather centrality'. This growth is concentrated in joint-stock firms active in business services and finance sectors, and is even larger once we aggregate to the family-name level. This is consistent with politicians accumulating private sector wealth by acting as rentier-brokers.
 
-![1685989090951](image/research/1685989090951.png)![1685989104733](image/research/1685989104733.png)
+![1685989090951](image/research/1685989090951.png)*FRELIMO Polit Bureau 1983 (source: Colin Darch)*![1685989104733](image/research/1685989104733.png)*Cover of the BD3*
