@@ -36,4 +36,4 @@ We link a new database of politically exposed persons in Mozambique to the unive
 
 ![](image/research/Polit_bureau_FRELIMO_1983.png) ![](image/research/example_bulletin.png)
 
-*left: FRELIMO Polit B*ureau 1983 (source: Colin Darch) right: Cover of the BD3*
+*left:* FRELIMO Polit B*ureau 1983 (source: Colin Darch) *right:* Cover of the BD3
