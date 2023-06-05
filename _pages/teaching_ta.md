@@ -12,6 +12,6 @@ redirect_from:
 
 I have taught  as a Teaching Assisitent for the following undergraduate courses on political economy and statistical methods.
 
-- Statistics, Bachelor, TA (BA-BEBUO1010U, in person)
-- Political Economy of Development ( BA-BPOLO1287U, online)
-- Quantitative Methods for Business and Social Science (BA-BPOLO2010U, online )
+- Statistics, Bachelor, in person, fall 2022 ([details](https://kursuskatalog.cbs.dk/2022-2023/BA-BEBUO1010U.aspx))
+- Political Economy of Development, online,  spring 2021  ([details](https://kursuskatalog.cbs.dk/2022-2023/BA-BPOLO1287U.aspx))
+- Quantitative Methods for Business and Social Science, online,  spring 2021  ([details](https://kursuskatalog.cbs.dk/2021-2022/BA-BPOLO2010U.aspx))
