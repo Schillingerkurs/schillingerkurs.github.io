@@ -16,7 +16,7 @@ Please [email](mailto:fs.egb@cbs.dk) me for the latest drafts.
 
 Resource conflicts in low income countries are a major challenge, exacerbated by climate change and the increasing global demand for mining commodities. This paper examines the potential of property rights to mitigate conflict over valuable resources in the mining sector. While donors and scholars have long advocated for property rights in low income countries, little is known about how these capacity investments relate to political processes and local conflict. Using original data from administrative records in the Democratic Republic of the Congo and its neighboring countries, this paper examines how mining licenses moderate the effect of resource extraction on conflict. The main argument is that heterogeneous levels of political influence among mining stakeholders cause local conflict, and improvements in administrative capacities maintain this conflict potential if they do not address present gaps in access to rights. Empirically, the paper finds heterogenous effects on conflict levels in mining areas that get formalized through mining licenses. The paper concludes that property rights can be effective in mitigating resource conflicts, but their strength depends on rulers and bureaucracies prioritizing an efficient allocation of resources over personal access to rents.
 
-![1685988798306](image/research/1685988798306.png)*Location of artisanal or small-scale mining (ASM) and  large-scale mining (LSM)  sides. The dark grey areas marks the territory that is affected by the Dodd-Frank Act (DFA) section 1502 after 2010.*
+![](image/research/Unique_mines_location.png)*Location of artisanal or small-scale mining (ASM) and  large-scale mining (LSM)  sides. The dark grey areas marks the territory that is affected by the Dodd-Frank Act (DFA) section 1502 after 2010.*
 
 ## Authoritarian Political Selection: Ruling Parties and the Rise of Business Elites
 
@@ -34,6 +34,6 @@ with [Sam Jones](https://esamjones.github.io/) and [Finn Tarp](https://web.econ.
 
 We link a new database of politically exposed persons in Mozambique to the universe of owners of all private firms formally registered since Independence. Based on the network of connections between firm owners, we estimate the value of party political and executive mandates to individuals’ business interests. We find holders of political office achieve significantly faster gains, both in the number of companies owned and their structural power within the business-owner network, measured by their 'godfather centrality'. This growth is concentrated in joint-stock firms active in business services and finance sectors, and is even larger once we aggregate to the family-name level. This is consistent with politicians accumulating private sector wealth by acting as rentier-brokers.
 
-![1685989090951](image/research/1685989090951.png) ![1685989104733](image/research/1685989104733.png)
+![](image/research/Polit_bureau_FRELIMO_1983.png) ![](image/research/example_bulletin.png)
 
 *left: FRELIMO Polit B*ureau 1983 (source: Colin Darch) right: Cover of the BD3*
