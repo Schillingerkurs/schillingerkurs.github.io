@@ -18,14 +18,14 @@ Resource conflicts in low income countries are a major challenge, exacerbated by
 
 ![1685988798306](image/research/1685988798306.png)
 
-
-1. ![Link Name](Link URL)
-
 ## Authoritarian Political Selection: Ruling Parties and the Rise of Business Elites
 
 with [Anne Jamison](https://www.annejamison.com/) and [Benjamin Egerod](https://bcegerod.github.io/) and [Mogens Justesen](https://sites.google.com/site/mkjustesen/)
 
 When and why do autocrats recruit business elites to serve in government? We argue that they do so as a defense strategy when new business elites emerge. Existing work suggests that incumbent political elites attempt to block change that allows new business elites to emerge. However, authoritarian governments may respond to sudden market changes by controlling selection into firm ownership and recruitment from firm ownership into political office, in particular by installing close members of their social network as new firm owners. To test this argument, we exploit natural gas discovery in Mozambique as a natural experiment. We collect novel data on the political office-holders and match it to the full universe of business owners since the country's independence. Using a series of difference-in-differences designs we show that in the aftermath of gas discovery, owners of gas companies are much more likely to be recruited into politics. This effect is concentrated among individuals who are central in the social network of ruling political elites. The gas discovery caused a large increase in firm ownership among family members---in social proximity to ruling elites---of politicians from the ruling party. This suggests that the ruling political elite installed central members of their social network in the emerging gas industry and then used this as a springboard to recruit business owners into political office. This solves a dual commitment problem for authoritarian governments and the new business elite: the incumbent elite could commit to enacting policies that benefit the oil industry, while the new business elite could commit to being loyal to the political regime.
+
+
+![1685988943617](image/research/1685988943617.png)
 
 # Under review
 
@@ -34,3 +34,5 @@ When and why do autocrats recruit business elites to serve in government? We arg
 with [Sam Jones](https://esamjones.github.io/) and [Finn Tarp](https://web.econ.ku.dk/ftarp/)
 
 We link a new database of politically exposed persons in Mozambique to the universe of owners of all private firms formally registered since Independence. Based on the network of connections between firm owners, we estimate the value of party political and executive mandates to individuals’ business interests. We find holders of political office achieve significantly faster gains, both in the number of companies owned and their structural power within the business-owner network, measured by their 'godfather centrality'. This growth is concentrated in joint-stock firms active in business services and finance sectors, and is even larger once we aggregate to the family-name level. This is consistent with politicians accumulating private sector wealth by acting as rentier-brokers.
+
+![1685989090951](image/research/1685989090951.png)![1685989104733](image/research/1685989104733.png)
