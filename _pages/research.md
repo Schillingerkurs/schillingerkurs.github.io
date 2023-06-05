@@ -22,9 +22,6 @@ Resource conflicts in low income countries are a major challenge, exacerbated by
 ```
 
 
-<img src="/images/posts/so-it-goes/waffle_combined-1.png" style="display: block; margin: auto;" />
-
-
 
 
 1. ![Link Name](Link URL)
