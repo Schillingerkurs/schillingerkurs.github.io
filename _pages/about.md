@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD fellow at the Department of International Economics, Government and Business at the Copenhagen Business School. My research focuses on the intricate relationship between natural resources, politics, and economic development in low-income countries.
+I am currently a PhD fellow at the Department of International Economics, Government and Business at the Copenhagen Business School. My research focuses on the intricate relationship between natural resource extraction, politics, and economic development in low-income countries.
 
 Studying these complex interactions with quantitative methods can be challenging. That's why I work with public but unstructured data and various data science techniques, including spatial analysis and Natural Language Processing (NLP). My goal is to uncover valuable insights that shed light on the dynamics of resource-driven development, particularly linkages between political and economic actors.
 
