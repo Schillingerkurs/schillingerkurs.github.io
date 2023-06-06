@@ -4,3 +4,11 @@ REF:
 
 - Offical documentation [here](https://academicpages.github.io/markdown/)
 - Detailed tutorial by [Rob Wiliams](https://jayrobwilliams.com/posts/2020/06/academic-website/)
+
+
+
+
+SEO:
+
+- Tutorial [matteo courthoud](https://matteocourthoud.github.io/post/website/#google-analytics)
+- [ Google search consule](https://search.google.com/search-console/welcome)
