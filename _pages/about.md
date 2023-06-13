@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD fellow at the Department of International Economics, Government and Business at the Copenhagen Business School.  I am an applied economist interested in the relationship between natural resource extraction, politics, and economic development in low income countries.
+I am a PhD fellow at the [Department of International Economics, Government and Business](https://www.cbs.dk/en/research/departments-and-centres/department-of-international-economics-government-and-business) at the [Copenhagen Business School](https://www.cbs.dk/en).  I am an applied economist interested in the relationship between natural resource extraction, politics, and economic development in low income countries.
 
 My research focuses on legal types of rent capture in low income countries. In my PhD thesis, I explore with quantitiave methods how elites maintain and protect rent capture opportunities in the private sector. I have experience working with large administrative datasets and combinig orginal data from unstrucutured sources including texts, mining cadastres and sattelite images. This includes various data science techniques, such as geo-spatial analysis, causal inference and Natural Language Processing (NLP).
 
