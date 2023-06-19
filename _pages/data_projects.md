@@ -14,7 +14,7 @@ In light of these challenges, in collaboration with [Alan Jones](https://www.lin
 
 ![1687158122065](image/data_projects/production_licenses_all.png) *Major extraction sides (blue) and public aviable mining licensese (red) on the African contient.*
 
-## Example mining activities and licenses in Sierra Leone
+## Example: mining activities and licenses in Sierra Leone
 
 The following interactiv map zooms in on Sierra Leone and lists details of mining licenses and existing measures of mining activities.
 
