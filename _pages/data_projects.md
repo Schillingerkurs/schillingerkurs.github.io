@@ -16,6 +16,6 @@ In light of these challenges, in collaboration with [Alan Jones](https://www.lin
 
 ## Example mining activities and licenses in Sierra Leone
 
-The following map plots mining licenses and existing measures of mining activities across Sierra Leone.
+The following interactiv map zooms in on Sierra Leone and lists details of mining licenses and existing measures of mining activities.
 
 <iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
