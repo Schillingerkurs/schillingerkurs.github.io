@@ -6,18 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Mining licenses and activities in Sierra Leone
-The following map compares mining licenses (color) to documented production sides according to OSM, jjj and iii
-
-
-<iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
-
-
-
-
-
 # Rare earth in Africa
-
 
 This map lists all  rare earth mining licenses (red), deposits (brown) and production sides (black) that I found in my mining data repos.
 
