@@ -20,9 +20,7 @@ The following interactiv map zooms in on Sierra Leone and lists details of minin
 
 The listed categories include licenses for artisanal miner or small-scale mining (ASM), Exploration and Prospecting licensese as well as Porduction licenseses.
 
-To compare these legel entities to actual mining, the map also plots mining areas defined by [Maus et al. (2020)](https://www.nature.com/articles/s41597-020-00624-w)  and the [United States Geological Survey (USGS)](https://www.usgs.gov/).
-
-If you zoom in, you will also see mining areas, mapped in the [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=14/-2.0182/29.3634) project.
+To compare these legel entities to actual mining, the map also plots mining areas defined by [Maus et al. (2020)](https://www.nature.com/articles/s41597-020-00624-w)  and the [United States Geological Survey (USGS)](https://www.usgs.gov/). If you zoom in, you will also see mining areas that are mapped in the [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=14/-2.0182/29.3634) project.
 
 
 <iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
