@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Mining licenses in africa
+# Mining licenses in Africa
 
 Natural resource extraction, particularly mining, holds paramount economic and political significance as it fuels economic expansion, facilitates employment opportunities, generates substantial revenue, ensures resource stability in many low income countries.
 
@@ -14,9 +14,7 @@ Natural resource extraction, particularly mining, holds immense economic and pol
 
 In light of these challenges, in collaboration with [Alan Jones](https://www.linkedin.com/in/alanksjones/), we have curated a comprehensive data repository of mining licenses in various low-income countries. This section presents descriptive statistics pertaining to the current project stages, shedding light on the prevailing conditions in the mining sector.
 
-
 ![1687158122065](image/data_projects/production_licenses_all.png)
-
 
 ## Example mining activities and licenses in Sierra Leone
 
