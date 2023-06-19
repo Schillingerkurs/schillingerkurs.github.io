@@ -8,7 +8,7 @@ author_profile: true
 
 # Mining licenses in Africa
 
-Natural resource extraction, particularly mining, holds paramount economic and political significance as it fuels economic expansion, facilitates employment opportunities, generates substantial revenue, ensures resource stability in many low income countries.
+Natural resource extraction, particularly mining, holds paramount economic and political significance as it fuels economic expansion, facilitates employment opportunities, generates substantial revenue  in many low income countries. At the same time are these resources curicual to the global supply chain of electronic devices.
 
 Natural resource extraction, particularly mining, holds immense economic and political significance as it serves as a catalyst for economic growth, fosters job opportunities, generates substantial revenue, and ensures resource stability, particularly in low-income countries. However, studying mining activities and comprehending their legal status empirically presents inherent challenges due to the intricacies of the industry, variations in legal frameworks across different jurisdictions, the prevalence of informal and illicit mining practices, limited transparency in reporting, and the involvement of numerous stakeholders. Consequently, the comprehensive collection and analysis of data become arduous tasks.
 
