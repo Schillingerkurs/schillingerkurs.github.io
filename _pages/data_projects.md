@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Mining licenses in Africa
+# Mining licenses in low income countries
 
 Natural resource extraction, particularly mining, holds paramount economic and political significance as it fuels economic expansion, facilitates employment opportunities and generates substantial revenue  in many low income countries. At the same time are these resources curicual to the global supply chain of electronic devices. However, studying mining activities and comprehending their legal status empirically presents inherent challenges due to the intricacies of the industry, variations in legal frameworks across different jurisdictions, the prevalence of informal and illicit mining practices, limited transparency in reporting, and the involvement of numerous stakeholders. Consequently, the comprehensive collection and analysis of data become arduous tasks.
 
@@ -14,7 +14,7 @@ In light of these challenges, in collaboration with [Alan Jones](https://www.lin
 
 ![1687158122065](image/data_projects/production_licenses_all.png) *Major extraction sides (blue) and public aviable mining licensese (red) on the African contient.*
 
-## Example: mining activities and licenses in Sierra Leone
+## 1) Example: mining activities and licenses in Sierra Leone
 
 The following interactiv map zooms in on Sierra Leone and lists details of mining licenses and existing measures of mining activities.
 
@@ -24,16 +24,12 @@ To compare these legel entities to actual mining, the map also plots mining area
 
 <iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
 
-
-
+## Example 2)
 
 # The formal sector of Mozambique
 
 The study of low income countries is complicated by the lack of readily available data on firms and their owners. To address this challenge, I parse unstructured text data on firm ownership from a national gazette of Mozambique containing all formally registered entries since Mozambique’s independence.
 
 In the flow map below, I define the home district of each business owner as the first one where they register any entity in the gazette. If they same person registers an entity in another district, they the flow level between these two districts increases by one unit. Overall, this model shows that the a large gas discoveries in northern Mozambique primarily increased the economic connection and business owner migration between the Capital Maputo and different districts. The FDI inflow, triggered by the gas discovery, relates to very little inter-district flows of business owners.
-
-
-
 
 <iframe width="800" height="600" src="https://flowmap.blue/11ZnABzljcOILxtO64k7OcQVoshZ2vVrSM0ma6sq2hPo/embed" frameborder="0" allowfullscreen></iframe>
