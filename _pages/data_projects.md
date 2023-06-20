@@ -31,7 +31,7 @@ Any group that gains power over a land or territory faces changing requirements 
 The figure below displayse the road network and awarded mining licenses before and after August 2021
 
 
-![1687261975893](image/data_projects/1687261975893.png)
+![mines_and_roads_AFG](image/data_projects/mines_and_roads_AFG.png)
 
 
 # The formal sector of Mozambique
