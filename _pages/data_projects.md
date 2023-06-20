@@ -15,7 +15,7 @@ In light of these challenges, in collaboration with [Alan Jones](https://www.lin
 
 
 <details >
-<summary> ## Example: mining activities and licenses in Sierra Leone </summary>
+<summary> ## Example: Mining activities and licenses in Sierra Leone </summary>
 
 The following interactiv map zooms in on Sierra Leone and lists details of mining licenses and existing measures of mining activities.
 
