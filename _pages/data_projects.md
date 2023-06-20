@@ -24,7 +24,15 @@ To compare these legel entities to actual mining, the map also plots mining area
 
 <iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
 
-## Example 2)
+## 2) Example: Mines and roads in Afghanistan
+
+Any group that gains power over a land or territory faces changing requirements as incumbent.While rebel organizations can relay on ambush tactics and  capture rents from existing economic activities, incumbents need to carry out their own economic policy or attract foreign capital to finance their rule. Existing research examines rent capture practices by rebel groups and incumbents separately, but does not account for the way rent capture opportunities shift if a rebel group becomes the incumbent. To study this relation, this projects investigates for the case of contemporary Afghanistan how the Taliban shifted their activities since August 2021.
+
+The figure below displayse the road network and awarded mining licenses before and after August 2021
+
+
+![1687261975893](image/data_projects/1687261975893.png)
+
 
 # The formal sector of Mozambique
 
