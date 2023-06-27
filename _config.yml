@@ -56,6 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
+# Google Analytics
+google_analytics: 'G-WPGKHNDNM7'
+
+
 # Social Sharing
 mastodon:
   username               : "econtwitter.net/@schillingerkurs"
