@@ -12,16 +12,18 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 
 
 ## Why should we care about resource-abundant countries?
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        The supply of fossil fuels and metals is economically important in the coming decades due to two key trends. First, the demand for fossil fuels is projected to remain high even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". Second, the global shift toward renewable energy will increase the need for minerals like cobalt, copper, tantalum, tin, and tungsten.
+        The supply of fossil fuels and metals is economically important in the coming decades due. For one, the demand for fossil fuels is projected to remain high even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". Second, the global shift toward renewable energy will increase the need for minerals like cobalt, copper, tantalum, tin, and tungsten.
     </div>
     <div style="flex: 1; text-align: center;">
         ![Global Demand](files/linechart/global_demand.jpg)
     </div>
-</div>add
+</div>
 
 ## What does this mean for low countries?
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         This presents an opportunity for resource-abundant, low-income countries to benefit from potential economic gains and increased revenue from natural resource rents, which can impact their state budgets and Foreign Direct Investment decisions.
@@ -30,6 +32,7 @@ my name is Felix, I am a PhD student research business and politcs links in reso
         ![Taxes and Resource Exports](files/linechart/taxes_resource_exports_gdp.jpg)
     </div>
 </div>
+
 
 
 
