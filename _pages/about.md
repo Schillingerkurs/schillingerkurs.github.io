@@ -15,7 +15,8 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        The supply of fossil fuels and metals is economically important in the coming decades . For one, the demand for fossil fuels is projected to remain high even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". Second, the global shift toward renewable energy will increase the need for minerals like cobalt, copper, tantalum, tin, and tungsten.
+        We are facing a skyrocketing demand for metals and minerals such as cobalt, copper, tantalum, tin, and tungsten.
+        These commodities are crucial for a transition towards renewable energy and electric devices. At the same time remains the demand for fossil fuels at hight levels even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". The plot on the right shows demand estimations from the International Energy Agency (IEA) for the period 2010-2050.
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="files/linechart/global_demand.jpg" alt="Global Demand">
@@ -26,7 +27,7 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        This presents an opportunity for resource-abundant, low-income countries to benefit from potential economic gains and increased revenue from natural resource rents, which can impact their state budgets and Foreign Direct Investment decisions.
+        The second plot shows the share of the Gross Domestic Product (GDP) for exports of oil- and minerals as well as resource taxation (UNU-WIDER 2023) for the 68 least developed countries in the world 5 between 2001 and 2022. Oil revenues are important, but mineral exports become increasingly important in recent years. Only a fraction of these commodity revenues are formally taxed. This highlights the importance of rent sharing agreements beyond formal taxation, especially national governments and multinational enterprises.
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="files/linechart/taxes_resource_exports_gdp.jpg" alt="Taxes and Resource Exports">
@@ -35,11 +36,9 @@ my name is Felix, I am a PhD student research business and politcs links in reso
         
 
 
-
-
-
 ## About my research
-
+My research examines business and politics links in resource-abundent, low-income countries. I am particularly interested in the role of multinational enterprises in the extractive industries and
+how financial flows relate to institutional development. 
 ## About me
 
 - I am currently a fellow at the [Department of International Economics, Government and Business](https://www.cbs.dk/en/research/departments-and-centres/department-of-international-economics-government-and-business) at the [Copenhagen Business School](https://www.cbs.dk/en).
