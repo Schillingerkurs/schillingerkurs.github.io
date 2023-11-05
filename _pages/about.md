@@ -15,7 +15,7 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 
 The supply of fossil fuels and metals is economically important in the coming decades due to two key trends. First, the demand for fossil fuels  is projected to remain high even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". Second, the global shift toward renewable energy will increase the need for minerals like cobalt, copper, tantalum, tin, and tungsten. This presents an opportunity for resource-abundant, low-income countries to benefit from potential economic gains and increased revenue from natural resource rents, which can impact their state budgets and Foreign Direct Investment decisions.
 
-<iframe src="files/linechart/global_demand.jpg" height="600" width="800"> </iframe>
+![](files/linechart/global_demand.jpg)
 
 ## What I do
 
