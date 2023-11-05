@@ -16,7 +16,7 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         We are facing a skyrocketing demand for metals and minerals such as cobalt, copper, tantalum, tin, and tungsten.
-        These commodities are crucial for a transition towards renewable energy and electric devices. At the same time remains the demand for fossil fuels at hight levels even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future". The plot on the right shows demand estimations from the International Energy Agency (IEA) for the period 2010-2050.
+        These commodities are crucial for a transition towards renewable energy and electric devices. At the same time remains the demand for fossil fuels at hight levels even under the 'Announced Pledges Scenario' where governments will, on average, retain their already made commitments to reduce $CO^{2}$ emissions in the future. The plot on the right shows demand estimations from the International Energy Agency (IEA) for the period 2010-2050.
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="files/linechart/global_demand.jpg" alt="Global Demand">
