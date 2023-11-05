@@ -27,7 +27,7 @@ my name is Felix, I am a PhD student research business and politcs links in reso
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        The second plot shows the share of the Gross Domestic Product (GDP) for exports of oil- and minerals as well as resource taxation (UNU-WIDER 2023) for the 68 least developed countries in the world 5 between 2001 and 2022. Oil revenues are important, but mineral exports become increasingly important in recent years. Only a fraction of these commodity revenues are formally taxed. This highlights the importance of rent sharing agreements beyond formal taxation, especially national governments and multinational enterprises.
+        The second plot shows the share of the Gross Domestic Product (GDP) for exports of oil- and minerals as well as resource taxation (UNU-WIDER 2023) for the 68 least developed countries in the world 5 between 2001 and 2022. Oil revenues are important, but mineral exports become increasingly important in recent years. Only a fraction of these commodity revenues are formally taxed. This highlights the importance of rent sharing agreements beyond formal taxation, especially between national governments and multinational enterprises.
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="files/linechart/taxes_resource_exports_gdp.jpg" alt="Taxes and Resource Exports">
