@@ -23,7 +23,7 @@ my name is Felix Schilling, I am a PhD student and my research centers around bu
     </div>
 </div>
    
-## What does this mean for low countries?
+## What does this mean for low-income countries?
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -34,7 +34,6 @@ my name is Felix Schilling, I am a PhD student and my research centers around bu
     </div>
 </div>
         
-
 
 ## About my research
 My research examines business and politics links in resource-abundent, low-income countries. I am particularly interested in the role of multinational enterprises in the extractive industries and
