@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-my name is Felix Schilling, I am a PhD student and my research centers around business and politics links in resource-abundant, low-income countries.
+my name is Felix Schilling, I am an applied a economist. My research centers around business and politics links in resource-abundant, low-income countries.
 
 
 ## Why should we care about resource-abundant countries?
