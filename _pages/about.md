@@ -12,7 +12,7 @@ redirect_from:
 Technical Skills: Python, SQL, R, Azure
 
 
-About me:  I am an applied economist with a PhD focusing on the links between politics and businesses in resource-rich, low-income countries. I researched in depth risks within commodity supply chains crucial for the Green Transformation, using Machine Learning, Econometrics, and Natural Language Processing. I’ve presented my findings to scholars and policymakers globally, contributing to discussions on economic development. 
+About me:  I am an applied economist focusing on the links between politics and businesses in resource-rich, low-income countries. I researched in depth risks within commodity supply chains crucial for the Green Transformation, using Machine Learning, Econometrics, and Natural Language Processing. I’ve presented my findings to scholars and policymakers globally, contributing to discussions on economic development. 
 
 ## Education
 
