@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data-oriented Economist | PhD"
+title: "Data-oriented Economist, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
