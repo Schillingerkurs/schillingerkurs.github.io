@@ -11,15 +11,18 @@ redirect_from:
 
 Technical Skills: Python, SQL, R, Azure
 
+
+About me:  I am an applied economist with a PhD focusing on the links between politics and businesses in resource-rich, low-income countries. I researched in depth risks within commodity supply chains crucial for the Green Transformation, using Machine Learning, Econometrics, and Natural Language Processing. I’ve presented my findings to scholars and policymakers globally, contributing to discussions on economic development. 
+
 ## Education
 
-- Ph.D. in Political Economy, Copenhagen Business School, 2024
-- M.Sc. in Economics, Københavns Universitet, 2019
+- Ph.D. in Political Economy, Copenhagen Business School (CBS), 2024
+- M.Sc. in Economics, Københavns Universitet (KU), 2019
 - B.Sc. in Economics, Universität Heidelberg, 2016
 
 ## Work Experience
 
-### Research Fellow  (since 2024)
+### Research Fellow, CBS  (since 2024)
 
 - After defending my dissertation, I continue conducting quantitative research on the political economy of resource-rich, low-income countries.
 -  I collect, process and analyze unstructured administrative records and
@@ -27,8 +30,9 @@ satellite images.
 
 
 
-### Graduate Research Assistant (2019-2020)
+### Graduate Research Assistant, KU (2019-2020)
 
+- Part of the Development Economics Research Group at Kus Department of Economics
 - Built a 1:1 ownership model of the formal private sector in Mozambique since 1975.
 - Parsed semi-unstructured administrative records to observe the ownership structure of all registered firms.
 
