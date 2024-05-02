@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Data-oriented Economist | PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Data-oriented Economist | PhD
 
 Technical Skills: Python, SQL, R, Azure
 
