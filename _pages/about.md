@@ -46,8 +46,3 @@ satellite images.
 - **Mining licenses**: In this project, we address challenges such as legal intricacies, varied jurisdictions, and limited data transparency regarding mining licenses. Collaborating with Alan Jones, I curate a comprehensive data repository, providing descriptive statistics to illuminate the current stage of the project and insights into the conditions of the 
 
 
-## Publications
-
-- You can read my dissertation [here](https://research.cbs.dk/en/publications/essays-on-business-and-politics-in-resource-abundant-low-income-c).
--
-
