@@ -26,7 +26,11 @@ To compare these legel entities to actual mining, the map also plots mining area
 <iframe src="/files/maps/sle_production_licenses.html" height="600" width="800"> </iframe>
 
 
-## Example: Mines and roads in Afghanistan
+---
+
+# Other projects
+
+## Mines and roads in Afghanistan
 
 Any group that gains power over a land or territory faces changing requirements as incumbent. While rebel groups can relay on ambush tactics and  capture rents from existing economic activities, incumbents need to carry out their own economic policy or attract foreign capital to finance their rule. Existing research examines rent capture practices by rebel groups and incumbents separately, but does not account for the way rent capture opportunities shift if a rebel group becomes the incumbent. To study this relation, this projects investigates for the case of contemporary Afghanistan how the Taliban shifted their activities since August 2021.
 
@@ -37,8 +41,7 @@ The figure below displayse the road network and awarded mining licenses before a
 
 
 
-
-# The formal sector of Mozambique 
+## The formal sector of Mozambique 
 The study of low income countries is complicated by the lack of readily available data on firms and their owners. To address this challenge, I parse unstructured text data on firm ownership from a national gazette of Mozambique containing all formally registered entries since Mozambique’s independence.
 
 In the flow map below, I define the home district of each business owner as the first one where they register any entity in the gazette. If they same person registers an entity in another district, they the flow level between these two districts increases by one unit. Overall, this model shows that the a large gas discoveries in northern Mozambique primarily increased the economic connection and business owner migration between the Capital Maputo and different districts. The FDI inflow, triggered by the gas discovery, relates to very little inter-district flows of business owners.
