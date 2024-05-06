@@ -13,12 +13,12 @@ main:
 
 
 
-  - title: "Data"
+  - title: "Projects"
     url: /data/
 
     
-  - title: "Teaching"
-    url: /teaching_ta/    
+  #- title: "Teaching"
+  #  url: /teaching_ta/    
     
   #- title: "Portfolio"
   #  url: /portfolio/

@@ -42,7 +42,7 @@ satellite images.
 
 ## Projects
 
-- **Mining activities**: This data project collects actual mining activities in Africa. The project leverages academic publications, along with country-level datasets and proprietary databases to identify both formal and informal mining sites, significantly expanding the sample size and providing insights into the performance and ownership structures of mines.
+- **Mining activities**: This data ![https://schillingerkurs.github.io/data/](project) collects actual mining activities in Africa. The project leverages academic publications, along with country-level datasets and proprietary databases to identify both formal and informal mining sites, significantly expanding the sample size and providing insights into the performance and ownership structures of mines.
 - **Mining licenses**: In this project, we address challenges such as legal intricacies, varied jurisdictions, and limited data transparency regarding mining licenses. Collaborating with Alan Jones, I curate a comprehensive data repository, providing descriptive statistics to illuminate the current stage of the project and insights into the conditions of the 
 
 
