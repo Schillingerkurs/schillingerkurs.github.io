@@ -42,7 +42,7 @@ satellite images.
 
 ## Projects
 
-- **Mining activities and their legal status**: This data [project](https://schillingerkurs.github.io/data/) compiles mining activities across Africa, utilizing academic publications, country-level datasets, and proprietary databases. It offers an extensive sample size to uncover both formal and informal mining sites, shedding light on mine performance and ownership structures. Addressing challenges like legal complexities and data opacity surrounding mining licenses, the project collaborates with Alan Jones to curate a comprehensive repository, offering descriptive statistics and insights into licensing conditions.
+- **Mining activities and their legal status**: This data [project](https://schillingerkurs.github.io/projects/) compiles mining activities across Africa, utilizing academic publications, country-level datasets, and proprietary databases. It offers an extensive sample size to uncover both formal and informal mining sites, shedding light on mine performance and ownership structures. Addressing challenges like legal complexities and data opacity surrounding mining licenses, the project collaborates with Alan Jones to curate a comprehensive repository, offering descriptive statistics and insights into licensing conditions.
 
 
 - **Beneficial ownership data in Mozambique**: Administrative records often lack availability and standardization, especially in low-income countries. In this [project](https://schillingerkurs.github.io/thesis/pages/econ_moz.html), I parse unstructured text data on firm ownership from a national gazette of Mozambique, containing all formally registered entries since Mozambique’s independence, to gain micro-level insights into the Mozambican economy.
