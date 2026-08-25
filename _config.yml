@@ -56,7 +56,8 @@ yandex_site_verification :
 
 
 # Google Analytics
-google_analytics: 'G-WPGKHNDNM7'
+# Intentionally unset — this site uses no analytics/tracking. See _pages/terms.md.
+google_analytics:
 
 
 # Social Sharing
@@ -79,7 +80,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
