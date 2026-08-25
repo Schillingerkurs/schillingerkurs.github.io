@@ -1,0 +1,29 @@
+- id: statistics-cbs
+  type: teaching
+  course: Statistics
+  level: Bachelor
+  mode: in person
+  term: Fall 2022
+  institution: Copenhagen Business School (CBS)
+  link: "http://kursuskatalog.cbs.dk/2021-2022/BA-BEBUO1010U.aspx"
+  audience: [recruiter, academic]
+
+- id: political-economy-development
+  type: teaching
+  course: Political Economy of Development
+  level: Bachelor
+  mode: online
+  term: Spring 2021
+  institution: Copenhagen Business School (CBS)
+  link: "http://kursuskatalog.cbs.dk/2021-2022/BA-BPOLO1287U.aspx"
+  audience: [recruiter, academic]
+
+- id: quantitative-methods
+  type: teaching
+  course: Quantitative Methods for Business and Social Science
+  level: Bachelor
+  mode: online
+  term: Spring 2021
+  institution: Copenhagen Business School (CBS)
+  link: "https://kursuskatalog.cbs.dk/2021-2022/BA-BPOLO2010U.aspx"
+  audience: [recruiter, academic]

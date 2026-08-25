@@ -1,0 +1,39 @@
+- id: research-fellow-cbs
+  type: experience
+  role: Research Fellow
+  employer: Copenhagen Business School (CBS)
+  location: Copenhagen, Denmark
+  start: 2024
+  end: present
+  audience: [recruiter, academic]
+  skills: [python, geospatial-analysis, text-parsing]
+  bullets:
+    - "After defending my [dissertation](https://research.cbs.dk/en/publications/essays-on-business-and-politics-in-resource-abundant-low-income-c), I continue conducting quantitative research on the political economy of resource-rich, low-income countries."
+    - "I collect, process and analyze unstructured administrative records and satellite images."
+
+- id: graduate-ra-ku
+  type: experience
+  role: Graduate Research Assistant
+  employer: Københavns Universitet (KU)
+  location: Copenhagen, Denmark
+  start: 2019
+  end: 2020
+  audience: [recruiter, academic]
+  skills: [python, text-parsing]
+  bullets:
+    - "Part of the Development Economics Research Group at KU's Department of Economics."
+    - "Built a 1:1 ownership model of the formal private sector in Mozambique since 1975."
+    - "Parsed semi-unstructured administrative records to observe the ownership structure of all registered firms."
+
+- id: freelance-consultant-qbis
+  type: experience
+  role: Freelance Economic Consultant
+  employer: QBIS
+  location:
+  start: 2019
+  end: 2019
+  audience: [recruiter, academic]
+  skills: [econometrics]
+  bullets:
+    - "Conducted an ESG report on the socio-economic impact of harbor privatizations in Africa."
+    - "Performed empirical estimations of the effects of privatizations on trade volumes."

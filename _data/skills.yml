@@ -1,0 +1,29 @@
+# Tag vocabulary referenced by `skills:` lists in other _data files.
+# category groups skills into CV section headers (see _tools/generate_draft.py).
+- id: python
+  name: Python
+  category: programming
+- id: sql
+  name: SQL
+  category: programming
+- id: r
+  name: R
+  category: programming
+- id: azure
+  name: Azure
+  category: cloud-tools
+- id: geospatial-analysis
+  name: Geospatial analysis (GIS / Leaflet)
+  category: analysis
+- id: text-parsing
+  name: Unstructured text parsing
+  category: analysis
+- id: econometrics
+  name: Applied econometrics (difference-in-differences, panel data)
+  category: analysis
+- id: network-analysis
+  name: Social network analysis
+  category: analysis
+- id: data-visualization
+  name: Data visualization (Leaflet, flowmap.blue)
+  category: analysis

@@ -1,0 +1,12 @@
+{% comment %}
+  Renders a comma-separated list of skill names from _data/skills.yml.
+  Usage: {% include data/skill-list.html categories="programming,cloud-tools" %}
+  Omit `categories` to list all skills.
+{% endcomment %}
+{% assign cats = include.categories | default: "" | split: "," %}
+{% if cats.size > 0 %}
+  {% assign filtered = site.data.skills | where_exp: "s", "cats contains s.category" %}
+{% else %}
+  {% assign filtered = site.data.skills %}
+{% endif %}
+{% for s in filtered %}{{ s.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}

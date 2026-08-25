@@ -1,0 +1,10 @@
+{% comment %} Usage: {% include data/experience-item.html item=<entry from _data/experience.yml> %} {% endcomment %}
+<h3>{{ include.item.role }}, {{ include.item.employer }}
+{% if include.item.end == "present" %}(since {{ include.item.start }})
+{% elsif include.item.start and include.item.end and include.item.start != include.item.end %}({{ include.item.start }}-{{ include.item.end }})
+{% elsif include.item.end %}({{ include.item.end }})
+{% endif %}</h3>
+<ul>
+{% for b in include.item.bullets %}<li>{{ b | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+{% endfor %}
+</ul>

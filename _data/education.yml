@@ -1,0 +1,35 @@
+# start years are not given in the original source content and are left
+# unset rather than guessed; end is the completion year as originally stated.
+- id: phd-cbs
+  type: education
+  degree: "Ph.D."
+  field: Political Economy
+  institution: Copenhagen Business School (CBS)
+  location: Copenhagen, Denmark
+  start:
+  end: 2024
+  audience: [recruiter, academic]
+  details:
+    - "[Dissertation](https://research.cbs.dk/en/publications/essays-on-business-and-politics-in-resource-abundant-low-income-c)"
+
+- id: msc-ku
+  type: education
+  degree: "M.Sc."
+  field: Economics
+  institution: Københavns Universitet (KU)
+  location: Copenhagen, Denmark
+  start:
+  end: 2019
+  audience: [recruiter, academic]
+  details: []
+
+- id: bsc-heidelberg
+  type: education
+  degree: "B.Sc."
+  field: Economics
+  institution: Universität Heidelberg
+  location: Heidelberg, Germany
+  start:
+  end: 2016
+  audience: [recruiter, academic]
+  details: []

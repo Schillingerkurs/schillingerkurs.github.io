@@ -1,6 +1,5 @@
 _site/
-
-
-
-
+_generated/
+__pycache__/
+.venv/
 

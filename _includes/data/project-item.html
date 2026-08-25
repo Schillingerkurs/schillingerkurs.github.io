@@ -1,0 +1,18 @@
+{% comment %} Usage: {% include data/project-item.html item=<entry from _data/projects.yml> %} {% endcomment %}
+<div class="archive__item">
+  <h2 class="archive__item-title">{{ include.item.title }}</h2>
+
+  <div class="archive__item-excerpt">{{ include.item.description | markdownify }}</div>
+
+  {% for img in include.item.images %}
+  <p><img src="{{ img.path }}" alt="">{% if img.caption %}<br><em>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</em>{% endif %}</p>
+  {% endfor %}
+
+  {% for e in include.item.embeds %}
+    {% if e.kind == "iframe" %}<iframe src="{{ e.src }}" height="{{ e.height }}" width="{{ e.width }}"> </iframe>{% endif %}
+  {% endfor %}
+
+  {% if include.item.links.size > 0 %}
+  <p>See also: {% for l in include.item.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {% endif %}
+</div>

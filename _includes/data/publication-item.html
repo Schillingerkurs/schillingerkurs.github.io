@@ -1,0 +1,18 @@
+{% comment %} Usage: {% include data/publication-item.html item=<entry from _data/publications.yml> %} {% endcomment %}
+<div class="archive__item">
+  <h2 class="archive__item-title">{{ include.item.title }}</h2>
+
+  {% if include.item.coauthors.size > 0 %}
+  <p>with {% for c in include.item.coauthors %}<a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %} and {% endunless %}{% endfor %}</p>
+  {% endif %}
+
+  <p class="archive__item-excerpt">{{ include.item.abstract | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+
+  {% for img in include.item.images %}
+  <p><img src="{{ img.path }}" alt="">{% if img.caption %}<br><em>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</em>{% endif %}</p>
+  {% endfor %}
+
+  {% for l in include.item.links %}
+  <p><a href="{{ l.url }}">{{ l.label }}</a></p>
+  {% endfor %}
+</div>

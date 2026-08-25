@@ -1,0 +1,46 @@
+# variables/format/license/time_coverage are placeholders (TODO) — the source
+# prose never enumerated exact field names or licensing terms; confirm before
+# using these for a real dataset-documentation draft.
+- id: mining-licenses-africa
+  type: dataset
+  name: Mining Licenses in Africa
+  related_project_id: mining-licenses-africa
+  description: >
+    A repository of mining licenses (artisanal/small-scale, exploration & prospecting, and
+    production licenses) across low-income African countries, cross-referenced against actual
+    mining areas from Maus et al. (2020), USGS, and OpenStreetMap.
+  geographic_coverage: "Africa (multiple low-income countries, including Sierra Leone, DRC and neighboring countries)"
+  time_coverage: "TODO: confirm exact date range"
+  sources:
+    - Academic publications
+    - Country-level datasets
+    - Proprietary databases
+    - National online cadastres
+    - "Maus et al. (2020)"
+    - United States Geological Survey (USGS)
+    - OpenStreetMap (OSM)
+  variables: [] # TODO: list actual column/field names
+  format: "TODO: confirm (e.g. CSV / GeoJSON / shapefile)"
+  access: "Not yet publicly released — contact for access"
+  license: "TODO: confirm license"
+  contact: fs.egb@cbs.dk
+  audience: [public, academic]
+
+- id: rare-earth-africa
+  type: dataset
+  name: Rare Earth Mining Licenses in Africa
+  related_project_id: rare-earth-africa
+  description: >
+    Rare earth mining licenses, deposits and production sites across Africa, compiled from national
+    online cadastres and USGS data.
+  geographic_coverage: Africa
+  time_coverage: "TODO: confirm exact date range"
+  sources:
+    - National online cadastres
+    - United States Geological Survey (USGS)
+  variables: [] # TODO: list actual column/field names
+  format: "TODO: confirm (e.g. CSV / GeoJSON / shapefile)"
+  access: "Not yet publicly released — contact for access"
+  license: "TODO: confirm license"
+  contact: fs.egb@cbs.dk
+  audience: [public, academic]

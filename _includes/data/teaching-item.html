@@ -1,0 +1,2 @@
+{% comment %} Usage: {% include data/teaching-item.html item=<entry from _data/teaching.yml> %} {% endcomment %}
+<li>{{ include.item.course }}, {{ include.item.level }}, {{ include.item.mode }}, {{ include.item.term }} (<a href="{{ include.item.link }}">details</a>)</li>

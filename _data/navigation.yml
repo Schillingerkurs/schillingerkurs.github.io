@@ -1,33 +1,16 @@
-# main links links
+# main navigation links
 main:
-  #- title: "Publications"
-  #  url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-
-
   - title: "Research"
     url: /research/
-
-
 
   - title: "Projects"
     url: /projects/
 
-    
-  #- title: "Teaching"
-  #  url: /teaching_ta/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-    
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "CV"
-   # url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Teaching"
+    url: /teaching_ta/
+
+  - title: "CV"
+    url: /cv/

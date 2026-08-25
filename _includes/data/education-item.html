@@ -1,0 +1,2 @@
+{% comment %} Usage: {% include data/education-item.html item=<entry from _data/education.yml> %} {% endcomment %}
+<li>{{ include.item.degree }} in {{ include.item.field }}, {{ include.item.institution }}, {{ include.item.end }}{% if include.item.details.size > 0 %} — {% for d in include.item.details %}{{ d | markdownify | remove: "<p>" | remove: "</p>" }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</li>
